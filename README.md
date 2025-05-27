@@ -131,15 +131,13 @@ Publish the website in the given URL.
 </html>
 
 ## OUTPUT:
-![alt text](<Screenshot (74).png>)
 ![alt text](<Screenshot (73).png>)
+![alt text](<Screenshot (74).png>)
 ![alt text](<Screenshot (77).png>)
 ![alt text](<Screenshot (78).png>)
 ![alt text](<Screenshot (79).png>)
 ![alt text](<Screenshot (80).png>)
 ![alt text](<Screenshot (81).png>)
 ![alt text](<Screenshot (82).png>)
-
-
 ## RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
